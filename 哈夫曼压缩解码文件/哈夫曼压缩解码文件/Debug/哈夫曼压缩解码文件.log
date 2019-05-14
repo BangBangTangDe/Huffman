@@ -1,0 +1,11 @@
+﻿  Scanner.cpp
+f:\代码资料\哈夫曼压缩解码文件\哈夫曼压缩解码文件\huffman.h(10): warning C4091: “typedef ”: 没有声明变量时忽略“HTNode”的左侧
+f:\代码资料\哈夫曼压缩解码文件\哈夫曼压缩解码文件\huffman.h(19): warning C4091: “typedef ”: 没有声明变量时忽略“Store_Huf”的左侧
+f:\代码资料\哈夫曼压缩解码文件\哈夫曼压缩解码文件\scanner.cpp(124): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码资料\哈夫曼压缩解码文件\哈夫曼压缩解码文件\scanner.cpp(146): warning C4018: “<”: 有符号/无符号不匹配
+  哈夫曼压缩解码文件.cpp
+f:\代码资料\哈夫曼压缩解码文件\哈夫曼压缩解码文件\huffman.h(10): warning C4091: “typedef ”: 没有声明变量时忽略“HTNode”的左侧
+f:\代码资料\哈夫曼压缩解码文件\哈夫曼压缩解码文件\huffman.h(19): warning C4091: “typedef ”: 没有声明变量时忽略“Store_Huf”的左侧
+  正在生成代码...
+f:\代码资料\哈夫曼压缩解码文件\哈夫曼压缩解码文件\scanner.cpp(47): warning C4172: 返回局部变量或临时变量的地址: temp
+  哈夫曼压缩解码文件.vcxproj -> F:\代码资料\哈夫曼压缩解码文件\Debug\哈夫曼压缩解码文件.exe
